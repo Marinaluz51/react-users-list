@@ -2,7 +2,7 @@ export const users = [
     {
         id: '0',
         name: 'Siri',
-        description: 'Siri é um(a) assistente virtual inteligente para iOS, iPadOS, macOS, watchOS e tvOS, disponível para iPhone, iPad, iPod Touch, Apple Watch, Apple TV, HomePod e Mac. Sendo exclusivo(a) da Apple e utilizando processamento de linguagem natural para responder perguntas, fazer recomendações e executar ações. O aplicativo é o primeiro produto público por seus fabricantes, que trabalham em aplicações de inteligência artificial. O software se adapta ao usuário com base em suas pesquisas e preferências.',
+        description: 'Siri é uma assistente virtual inteligente para iOS, iPadOS, macOS, watchOS e tvOS, disponível para iPhone, iPad, iPod Touch, Apple Watch, Apple TV, HomePod e Mac. Sendo exclusivo(a) da Apple e utilizando processamento de linguagem natural para responder perguntas, fazer recomendações e executar ações. O aplicativo é o primeiro produto público por seus fabricantes, que trabalham em aplicações de inteligência artificial. O software se adapta ao usuário com base em suas pesquisas e preferências.',
         image: {
             alt: 'Siri',
             src: 'https://images.macrumors.com/t/AgNNkdRVpxk-zlOgJEQBC_1cZCs=/800x0/article-new/2017/10/hey-siri.jpg?lossy'
